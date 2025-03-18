@@ -1,9 +1,9 @@
 ---
-layout:default
-title:friends
+layout: default
+title: Friends
 ---
-#friends page
+# Friends page
 Berikut teman-teman saya di kelas:
--[Muhammad Zakyurrahman](https://zakyurrahman.github.io/Zackyurrahman.github.io/)
+-[Muhammad Zakyurrahman](https://Zackyurrahman.github.io/)
 -[Rayza Izzaty](https://rayzaizzaty.github.io/)
 -[Nasywa Nur Shabira](https://nsywaanurshbiraa.github.io/)
